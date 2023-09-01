@@ -64,6 +64,10 @@
 <loc>http://localhost:4000/venue</loc>
 </url>
 <url>
+<loc>http://localhost:4000/css/2023_style/pdf/CTF_KU.pdf</loc>
+<lastmod>2023-09-01T06:29:16+05:45</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/css/2023_style/pdf/modellngrulesandexamples.pdf</loc>
 <lastmod>2023-08-07T21:58:19+05:45</lastmod>
 </url>
